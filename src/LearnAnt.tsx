@@ -1,4 +1,3 @@
-import './App.css'
 import 'antd/dist/reset.css'
 import { Button, Input, Select } from 'antd'
 import { useState } from 'react'
